@@ -40,10 +40,16 @@ pip install -r requirements.txt
 cp .env.example .env          ve içine OpenAI API anahtarını ekle:       OPENAI_API_KEY=senin_openai_api_keyin
 
 ▶️ Çalıştırma
+
 python book_summarizer_agent.py
 
+---
+
 📌 Program çalışınca senden kitap adı isteyecek. Örn:
+
 Kitap adını girin: Suç ve Ceza
+
+---
 
 👤 Geliştirici
 Ad Soyad: DAMLA ARPA
