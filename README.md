@@ -51,5 +51,10 @@ Kitap adını girin: Suç ve Ceza
 
 ---
 
+
+
 👤 Geliştirici
 Ad Soyad: DAMLA ARPA
+
+Bu proje, **Kairu Bootcamp Eğitimleri** kapsamında bir ödev/proje olarak geliştirilmiştir.
+
